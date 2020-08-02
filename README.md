@@ -2,10 +2,9 @@
 
 ## 프로젝트 기간 : 2020.07.01 ~ 2020.07.31 18:00
 
-## 프로젝트 환경
-
-- 가상환경 python 버전 3.8.3
-- 가상환경 모듈은 requirement.txt 에 저장
+## 프로젝트 결과
+[대시보드 보러가기](https://public.tableau.com/views/Covid-19-Viz_15961023810290/Covid-19-DashBoard?:showVizHome=no&:embed=true)
+![COVID-19](https://user-images.githubusercontent.com/40276516/89133829-551da300-d55a-11ea-947a-a1c62fdca161.png)
 
 ## 프로젝트 설명
 
@@ -30,3 +29,8 @@
 - 주최 : KT
 - 주관 : 코리아스타트업포럼(AI i-CON), 데이콘
 - 후원 : 한국정보화진흥원(NIA)
+
+## 프로젝트 환경
+
+- 가상환경 python 버전 3.8.3
+- 가상환경 모듈은 requirement.txt 에 저장
