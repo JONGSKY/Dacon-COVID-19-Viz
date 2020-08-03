@@ -3,7 +3,11 @@
 ## 프로젝트 기간 : 2020.07.01 ~ 2020.07.31 18:00
 
 ## 프로젝트 결과
+
+[Dacon 보러가기](https://dacon.io/competitions/official/235618/codeshare/1515)
+
 [대시보드 보러가기](https://public.tableau.com/views/Covid-19-Viz_15961023810290/Covid-19-DashBoard?:showVizHome=no&:embed=true)
+
 ![COVID-19](https://user-images.githubusercontent.com/40276516/89133829-551da300-d55a-11ea-947a-a1c62fdca161.png)
 
 ## 프로젝트 설명
